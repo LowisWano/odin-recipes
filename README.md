@@ -1,2 +1,2 @@
 # odin-recipes
-Git repo practice for the odin project
+Git repo practice for the odin project using HTML.
